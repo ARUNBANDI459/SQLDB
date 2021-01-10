@@ -1,3 +1,4 @@
+Use CUSTOMERS
 Create TABLE CUSTOMERS.Customer.Test(id INT, Name VARCHAR(20));
 GO
 
